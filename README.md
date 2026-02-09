@@ -55,7 +55,7 @@ Este projeto é um agente de IA para WhatsApp que permite aos usuários interagi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/project-bot.git
+git clone https://github.com/zGabriel-Passos/n8n-AiAgent
 cd project-bot
 ```
 
