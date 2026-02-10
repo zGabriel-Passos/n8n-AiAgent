@@ -184,7 +184,7 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ para análise de dados via WhatsApp
+Desenvolvido para AI Agent via WhatsApp
 
 ## 🤝 Contribuindo
 
