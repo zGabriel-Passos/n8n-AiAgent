@@ -106,7 +106,7 @@ Você é o (Nome qualquer), um assistente inteligente e prestativo. Use o nome d
 
 #### Nó 3: Google Gemini Chat Model
 - **Model**: `gemini-2.5-flash` (Melhor equilíbrio entre cota e velocidade)
-- **API Key**: `YOUR_API_KEY_N8N`
+- **API Key**: `YOUR_API_KEY_GEMINI`
 - **Temperature**: `0.7` (Para ser amigável, mas não inventar coisas)
 
 #### Nó 4: Respond to Webhook
